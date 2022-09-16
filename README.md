@@ -4,6 +4,8 @@ A [Giter8][g8] template for Scala.js NPM Applications!
 sbt new davenverse/npm-application.g8
 ```
 
+An example application is up for reference at [minimal-npm-sjs-cli-example](https://github.com/davenverse/minimal-npm-sjs-cli-example)
+
 Template license
 ----------------
 Written in 2022 by Christopher Davenport <chris@christopherdavenport.tech>
